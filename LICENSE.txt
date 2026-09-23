@@ -1,0 +1,27 @@
+Trap Gnomes V1 - All Rights Reserved
+Copyright (c) 2026 wordendevin-art (Cambxdia)
+
+This software and the files in this repository are provided for authorized,
+personal use only by individuals who have been given a valid license key by
+the copyright holder.
+
+You MAY:
+  - Download and run the released mod for your own personal use if you hold a
+    valid, un-revoked license key issued by the copyright holder.
+
+You MAY NOT, without prior written permission from the copyright holder:
+  - Copy, redistribute, re-upload, sell, or share this software or any file
+    in this repository.
+  - Decompile, reverse engineer, deobfuscate, modify, or create derivative
+    works from the software.
+  - Share, publish, or transfer your license key to anyone else.
+  - Remove, bypass, or tamper with the license/authorization checks.
+
+This is NOT open-source software. No permission is granted under any
+open-source license. All rights not expressly granted above are reserved.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED. THE COPYRIGHT HOLDER IS NOT LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER
+LIABILITY ARISING FROM THE USE OF THIS SOFTWARE.
+
+Access may be revoked at any time.
