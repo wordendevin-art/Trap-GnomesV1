@@ -1,2 +1,2 @@
-1.3.0
-License keys and update notifications
+1.4.0
+Gnome Customization, keybinds, smoother menu, ragdoll fix
